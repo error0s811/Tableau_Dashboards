@@ -23,6 +23,12 @@ Each folder in this repository represents a standalone Tableau project and typic
 - Highlights high-performing sales reps and KPIs
 - Drill-down by time periods and categories
 
+### 2. **HR Analytics Dashboard**
+- Visualizes key HR metrics like headcount, attrition rate, and department-wise distribution
+- Highlights employee demographics, gender ratio, and average tenure
+- Drill-down enabled by department, location, and job roles
+
+
 
 ## 🧠 Purpose
 
